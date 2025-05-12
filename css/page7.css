@@ -1,0 +1,17 @@
+.article-img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.page7 {
+  float: left;
+  margin-right: 15px;
+  width: 200px;
+}
+
+/* @media (max-width: 650px) {
+  .page7 {
+    flex-direction: column;
+  }
+} */

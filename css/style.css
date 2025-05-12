@@ -34,6 +34,7 @@ nav a {
 main {
   padding: 2rem;
   max-width: 800px;
+  /* height: 100vh; */
   margin: auto;
   background: #ffffff;
   border-radius: 10px;
@@ -175,7 +176,7 @@ body {
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 20px;
+  /* gap: 20px; */
 }
 
 .latest {
@@ -185,7 +186,7 @@ body {
 
 .latest h4 {
   margin-top: 10px;
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 /* Footer */
@@ -194,5 +195,5 @@ footer {
   background: #222;
   color: #fff;
   padding: 20px 0;
-  margin-top: 40px;
+  /* margin-top: 40px; */
 }
